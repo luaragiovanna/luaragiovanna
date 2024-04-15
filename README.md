@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luaragiovanna
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning Angular
+- 👋 Hi, I’m a Computer Science undergraduate student.
+- 👀 I’m interested in mobile app development and AI.
+- 🌱 I’m currently learning  C# and Unity tools.
   
 - 📫 How to reach me gmail: luaragiovanna3@gmail.com
 
