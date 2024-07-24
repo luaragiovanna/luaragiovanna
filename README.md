@@ -1,5 +1,6 @@
-# 👋 Hi, I'm almost finishing my graduation in Computer Science.
+# 👋 Hi!
 
+- 🎓 I'm almost finishing my graduation in Computer Science.
 - 👀 I’m interested in front-end development, game-based learning, game development, and enterprise systems.
 - 🌱 I’m currently learning C# and Unity tools, and working on a prototype game to teach basic OOP concepts.
 - 📫 How to reach me: luaragiovanna3@gmail.com
